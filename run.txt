@@ -1,0 +1,10 @@
+1.npm install
+2.create a .env {
+
+MONGO_URI=mongodb://localhost:27017/bachelor
+JWT_SECRET=mysecret123
+
+}
+
+3.npm start
+
